@@ -17,7 +17,7 @@ if($media >= 7){
     $status = 'Reprovado';
 }
 
-echo "Sua média foi: $media<br>";
+echo "Sua média foi: <h1>$media</h1><br>";
 echo "<h1>Você está $status!</h1>";
 
 
