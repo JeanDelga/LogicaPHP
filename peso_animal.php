@@ -19,3 +19,5 @@ $valor_total = $peso_total_arroba * $valor_arroba;
 
 
 echo "<h1>Sr(a) $produtor, o valor total do seu animal é R$ " . number_format($valor_total, 2, ',', '.');
+
+echo "<br>";
